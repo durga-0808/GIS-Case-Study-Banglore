@@ -39,8 +39,8 @@ This project is a full-stack geospatial application that visualizes and analyzes
 ### 🔧 2. Backend (Python)
 ```bash
 cd backend/
-python -m venv env
-source env/bin/activate
+python -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 python3 analysis.py
 ```
