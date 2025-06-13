@@ -51,6 +51,8 @@ cd frontend/
 npm install
 npm start
 ```
+##  Download the data folder from the below drive link
+https://drive.google.com/file/d/1NoVYFPw_PXFJbNIBrw2iQQlkgfo1_BSx/view?usp=sharing
 
 ---
 
